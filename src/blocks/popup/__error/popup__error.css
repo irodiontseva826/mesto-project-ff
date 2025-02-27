@@ -1,0 +1,5 @@
+.popup__error {
+  opacity: 0;
+  color: rgb(255, 0, 0);
+  font-size: 12px;
+}
